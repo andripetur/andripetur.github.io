@@ -270,7 +270,7 @@ section.success a.active {
 }
 
 .cap-bg-yellow {
-  background: #f39c12 !important;
+  background: rgba(243,156,18,.5) !important;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
